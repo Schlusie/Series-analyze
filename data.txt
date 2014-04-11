@@ -1,0 +1,98 @@
+series;abbr;aktuell
+24;tt0285331;ja
+Agents of S.H.I.E.L.D.;tt2364582;ja
+Alcatraz;tt1728102;nein
+Alias;tt0285333;nein
+Almost Human;tt2654580;nein
+American Horror Story;tt1844624;ja
+Archer;tt1486217;ja
+Breaking Bad;tt0903747;nein
+Brooklyn-Nine-Nine;tt2467372;ja
+Desperate Housewives;tt0410975;nein
+Family Guy;tt0182576;ja
+Flash Forward;tt1441135;nein
+Fringe;tt1119644;nein
+Futurama;tt0149460;nein
+Helix;tt2758950;ja
+Hell on Wheels;tt1699748;nein
+How I met your mother;tt0460649;nein
+Lost;tt0411008;nein
+Malcolm in the Middle;tt0212671;nein
+Mind Games;tt2751064;nein
+Mission: Impossible;tt0094511;nein
+Mixology;tt2727600;ja
+Modern Family;tt1442437;ja
+New Girl;tt1826940;ja
+No ordinary Family;tt1591493;nein
+Orphan Black;tt2234222;ja
+Person of Interest;tt1839578;ja
+Under the Dome;tt1553656;ja
+Scrubs;tt0285403;nein
+Sherlock;tt1475582;ja
+Sleepy Hollow;tt2647544;ja
+South Park;tt0121955;ja
+Star Wars: Clone Wars;tt0361243;ja
+Terra Nova;tt1641349;nein
+The Americans;tt2149175;ja
+The Big Bang Theory;tt0898266;ja
+The Following;tt2071645;nein
+The Killing;tt1637727;ja
+The Musketeers;tt2733252;ja
+The Simpsons;tt0096697;ja
+The Walking Dead;tt1520211;ja
+Touch;tt1821681;nein
+True Detective;tt2356777;ja
+Utopia;tt2384811;ja
+Klondike;tt2761630;nein
+Game of Thrones;tt0944947;ja
+True Blood;tt0844441;ja
+Veep;tt1759761;ja
+The Pacific;tt0374463;nein
+Vikings;tt2306299;ja
+Hatfields & McCoys;tt1985443;nein
+The Spoils of Babylon;tt2884286;nein
+Der Tatortreiniger;tt2147995;ja
+Believe;tt2592094;ja
+Grimm;tt1830617;ja
+Hannibal;tt2243973;ja
+Parks and Recreation;tt1266020;ja
+The Blacklist;tt2741602;ja
+Friends;tt0108778;nein
+Go on;tt2300923;nein
+Heroes;tt0813715;nein
+House of Cards;tt1856010;ja
+Alphas;tt1183865;nein
+Battlestar Galactica;tt0407362;nein
+Stargate Universe;tt1286039;nein
+Stargate Atlantis;tt0374455;nein
+Stargate SG-1;tt0118480;nein
+Continuum;tt1954347;ja
+Crisis;tt2322158;ja
+Death Note;tt0877057;nein
+From Dusk till Dawn;tt3337194;ja
+Cosmos;tt2395695;ja
+One Piece;tt0388629;ja
+Dragon Ball;tt0280249;nein
+Dragon Ball Z;tt0214341;nein
+Dragon Ball GT;tt0139774;nein
+Episodes;tt1582350;ja
+Homeland;tt1796960;ja
+Masters of Sex;tt2137109;ja
+Shameless (US);tt1586680;ja
+Dexter;tt0773262;nein
+Blue Mountain State;tt1344204;nein
+Black Sails;tt2375692;ja
+Falling Skies;tt1462059;ja
+Mob City;tt2176609;nein
+Camelot;tt1672189;nein
+Arrow;tt2193021;ja
+Nikita;tt1592154;nein
+The Tomorrow People;tt2660734;ja
+Smallville;tt0279600;nein
+Bleach;tt0434665;nein
+Cowboy Bebop;tt0213338;nein
+The 100;tt2661044;ja
+Firefly;tt0303461;nein
+Prison Break;tt0455275;nein
+Hellsing;tt0325547;nein
+Turn;tt2543328;ja
